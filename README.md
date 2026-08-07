@@ -13,7 +13,7 @@ This repository contains my assignments and practice exercises completed during 
 ## Assignment Progress
 
 - [x] Day 1: Python Foundations
-- [ ] Day 2: 
+- [x] Day 2: List, Loops and Dictionaries
 - [ ] Day 3:
 - [ ] Day 4:
 - [ ] Day 5:

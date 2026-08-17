@@ -14,11 +14,5 @@ This repository contains my assignments and practice exercises completed during 
 
 - [x] Day 1: Python Foundations
 - [x] Day 2: List, Loops and Dictionaries
-- [ ] Day 3:
-- [ ] Day 4:
-- [ ] Day 5:
-- [ ] Day 6:
-- [ ] Day 7:
-- [ ] Day 8:
-- [ ] Day 9:
-- [ ] Day 10:
+- [x] Day 3: Function and Modules
+- [x] Day 4: Error and Exception Handling

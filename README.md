@@ -16,3 +16,4 @@ This repository contains my assignments and practice exercises completed during 
 - [x] Day 2: List, Loops and Dictionaries
 - [x] Day 3: Function and Modules
 - [x] Day 4: Error and Exception Handling
+- [x] Day 5-6: Advanced python with OOP

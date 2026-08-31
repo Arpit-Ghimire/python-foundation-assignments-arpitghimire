@@ -1,3 +1,12 @@
+# Environment variables 
+.env
+
+# Jupyter checkpoints
 .ipynb_checkpoints/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# OS files
+.DS_Store

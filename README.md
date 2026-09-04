@@ -12,10 +12,11 @@ This repository contains my assignments and practice exercises completed during 
 
 ## Assignment Progress
 
-- [x] Day 1: Python Foundations
-- [x] Day 2: List, Loops and Dictionaries
-- [x] Day 3: Function and Modules
-- [x] Day 4: Error and Exception Handling
-- [x] Day 5-6: Advanced python with OOP
+- [x] Day 1 : Python Foundations
+- [x] Day 2 : List, Loops and Dictionaries
+- [x] Day 3 : Function and Modules
+- [x] Day 4 : Error and Exception Handling
+- [x] Day 6 : Advanced python with OOP
 - [x] Day 5 : Cedar Gate Public Library
 - [x] Day 7 : SQL Foundation Assignment
+- [x] Day 8 : Advanced SQL Assignment
